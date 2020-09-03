@@ -20,3 +20,6 @@ My account: https://github.com/Tanjim-Fuad-Arik/
 Made By Toby Fox
 
 Play the game yourself: https://undertale.com/
+
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S324CGO)
